@@ -1,0 +1,11 @@
+20221001	13:25:52	c52740cb-0ba8-4a3f-bc8b-9e5d6bb789c7	Error: Not Allowed by CORS	GET	/	chrome-untrusted://new-tab-page
+20221114	21:56:56	38dfc0ae-10fd-4ba0-9845-57b554463cd4	TypeError: Cannot read properties of undefined (reading 'data')	GET	/news	undefined
+20221114	21:58:25	031a8af2-58e3-42f7-829f-cb373d257b08	TypeError: Cannot read properties of undefined (reading 'data')	GET	/news	undefined
+20221115	00:13:55	33236502-5b6d-47fa-b4c1-f638c8cb7d18	TypeError: Cannot read properties of undefined (reading 'data')	GET	/news	undefined
+20221115	00:14:16	638e0021-5447-4744-a957-99f65fc5cd88	TypeError: Cannot read properties of undefined (reading 'data')	GET	/news	undefined
+20221115	00:14:37	9f37286e-0a96-4a4e-a486-ca76ad95ed64	TypeError: Cannot read properties of undefined (reading 'data')	GET	/news	undefined
+20221115	00:15:13	58f3a4b1-a559-4db8-849c-286f8292f708	TypeError: Cannot read properties of undefined (reading 'data')	GET	/news	undefined
+20221115	00:15:41	2ccc1835-0450-403b-bc19-30419e3f341f	TypeError: Cannot read properties of undefined (reading 'data')	GET	/news	undefined
+20221115	00:16:06	6d816acb-213d-4f2f-a27c-8f7a417754a7	TypeError: Cannot read properties of undefined (reading 'data')	GET	/news	undefined
+20221115	00:16:41	930ec7a0-40f4-4b9c-8eaa-fcb040b31c47	TypeError: Cannot read properties of undefined (reading 'data')	GET	/news	undefined
+20221115	21:35:32	4d635277-e8d7-4c2a-afdd-b4165c77a1cc	RangeError: Maximum call stack size exceeded	GET	/news/search/?q=batman	undefined
